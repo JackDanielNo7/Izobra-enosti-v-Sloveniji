@@ -1,2 +1,2 @@
-# Izobra-enosti-v-Sloveniji
+# Izobrazenost-v-Sloveniji
 Primerjal bom stopnjo izobraženosti v Sloveniji v preteklosti in v sedanjosti, ter jo primerjal tudi z izobrazbo izven Slovenije. 
