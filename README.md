@@ -1,5 +1,5 @@
 # Projekt-ROM
-## Stevilo vključeni v formalno izobraževanje v Sloveniji
+## Število vključeni v formalno izobraževanje v Sloveniji
 (Projekt je bil preimenovan iz "Izobraženost v Sloveniji", zaradi pomankljive količine podatkov. In sem se odločil za najbolj podobno temo.)
 
 Primerjal bom število vključenih v formalno izobraževanje po vrsti programa in spolu v Sloveniji, letno.
