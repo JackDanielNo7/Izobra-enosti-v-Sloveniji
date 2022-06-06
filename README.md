@@ -12,6 +12,8 @@ Primerjal bom število vključenih v formalno izobraževanje po vrsti programa i
 
 ## Povezava do posnetka:
 
+https://youtu.be/q0Oa8a979Q8
+
 ## Povezava do aplikacije:
 
-https://www.wolframcloud.com/obj/34d15acf-1b1b-4db2-8616-236f5a037013
+https://www.wolframcloud.com/obj/71848567-1823-4726-8ab2-a57cfd451d88
